@@ -1,0 +1,3 @@
+alias ll='ls -lAhF'
+alias d=docker
+alias k=kubectl
